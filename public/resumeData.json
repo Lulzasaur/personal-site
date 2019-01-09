@@ -2,17 +2,17 @@
   "main": {
     "name":"Jay Chi",
     "occupation":"Full Stack Software Developer",
-    "description":"Whether it's poking around on the back end with Node, styling with Bootstrap, or even pushing models through Tensorflow. I can help. If you want to learn more about working with me, give me a call or email me",
+    "description":"Whether it's poking around on the back end with Node, playing with components in React, or pushing models through Tensorflow. I can help. If you want to learn more about working with me, give me a call or email me",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"It may not show from my calm demeanor, but I am an avid amateur dog photographer. Additionally, I like to brew my own kombucha. Unfortunately, dogs cannot drink kombucha.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jay.chi.is@gmail.com",
     "phone": "510-468-7011",
     "address":{
-      "street":"11 Franklin St. Apt 401",
-      "city":"San Francisco",
-      "state":"CA",
-      "zip": "94102"
+      "street":"",
+      "city":"Bay Area",
+      "state":"",
+      "zip": ""
     },
     "website": "http://www.jaychi.com",
     "resumedownload":"assets/JayChiResume.pdf",
