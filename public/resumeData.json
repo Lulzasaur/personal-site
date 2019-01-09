@@ -70,19 +70,19 @@
       {
         "title":"Machine Learning Stock Picker",
         "category":"Project playing with Tensorflow, Flask and React",
-        "image":"mlstock.jpeg",
+        "image":"mlstock.jpg",
         "url":"https://github.com/Lulzasaur/Machine-Learning-Stock-Picker"
       },
       {
         "title":"Warbler",
         "category":"Warblar is a twitter clone with full CRUD on 'warbles' or tweets.",
-        "image":"warbler.png",
+        "image":"warbler.jpg",
         "url":"https://warblarblarg.herokuapp.com/"
       },
       {
         "title":"Course Report",
         "category":"Mobile app made with React Native, Redis and Node/Express",
-        "image":"Splash.png",
+        "image":"coursereport.jpg",
         "url":"https://github.com/Lulzasaur/Course-Report-Mobile-App"
       }
     ]
