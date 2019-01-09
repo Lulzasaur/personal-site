@@ -80,10 +80,16 @@
         "url":"https://warblarblarg.herokuapp.com/"
       },
       {
-        "title":"Course Report",
+        "title":"Course Report Mobile App",
         "category":"Mobile app made with React Native, Redis and Node/Express",
         "image":"coursereport.jpg",
         "url":"https://github.com/Lulzasaur/Course-Report-Mobile-App"
+      },
+      {
+        "title":"Personal Website",
+        "category":"Personal site built with React",
+        "image":"personal.jpg",
+        "url":"https://github.com/Lulzasaur/personal-site"
       }
     ]
   }
