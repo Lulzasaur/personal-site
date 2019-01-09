@@ -90,6 +90,12 @@
         "category":"Personal site built with React",
         "image":"personal.jpg",
         "url":"https://github.com/Lulzasaur/personal-site"
+      },
+      {
+        "title":"Other Github Projects",
+        "category":"Check out other things I built!",
+        "image":"github.jpg",
+        "url":"https://github.com/Lulzasaur"
       }
     ]
   }
