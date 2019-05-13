@@ -2,7 +2,7 @@
 
 ## Description
 
-Personal website built using React. App is deployed here: <a href="www.jaychi.com">www.jaychi.com</a>
+Personal website built using React. App is deployed here: <a href="https://www.jaychi.com">www.jaychi.com</a>
 
 ## Credits
 ##### Udemy Course
